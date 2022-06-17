@@ -1,10 +1,9 @@
 index.js
-.index.js
+/.index.js
 .bin
 /bin
 /node_modules
-.node_modules
 /Routes
-.Routes
+/.Routes
 /views
-.views
+//.views
