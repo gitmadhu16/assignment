@@ -1,0 +1,26 @@
+{
+  "name": "express_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "express": "^4.18.1",
+    "express-generator": "^4.16.1",
+    "json2csv": "^5.0.7",
+    "node-fetch": "^3.2.6",
+    "nodemon": "^2.0.16",
+    "playwright": "^1.22.2",
+    "pug": "^3.0.2",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
