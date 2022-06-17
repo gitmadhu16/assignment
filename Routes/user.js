@@ -61,6 +61,7 @@ router.get("/search-username/:key([a-zA-z]{5})",(req,res)=>{
 router.get("*",(req,res)=>{
     var resObj = {
         statusCode:404,
+        
         statusMsg: "URL not found"
     }
     res.send(resObj);

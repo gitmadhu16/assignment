@@ -6,11 +6,15 @@ router.get('/',(req,res) =>{
     res.send('get request products data')
 })
 // /products/add-products
-router.post('/add-products',(req,res)=>{
+router.post('/add-product',(req,res)=>{
     // router.post("/add-products",(req,res)=>{
     res.send("get reuest add products");
     console.log(res)
 });
+
+
+
+
 
 
 // /user/edit-products
